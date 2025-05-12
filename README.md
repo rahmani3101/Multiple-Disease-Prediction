@@ -32,7 +32,7 @@ This web application allows users to select from four different disease predicti
 To run this project locally, please follow these steps:
 1. Clone the repository
 2. Navigate to the project directory
-3. Install the required dependencies
+3. Install the required dependencies (requirements.txt)
 
 
 # Usage
@@ -146,12 +146,11 @@ Model	Accuracy
 This Multiple Disease Prediction System WebApp provides an easy-to-use interface for predicting the likelihood of various diseases based on input features. The models used are well-validated and tuned for high accuracy. The system aims to assist in early diagnosis and better decision-making in healthcare.
 
 # Deployment
-The web app is hosted on Streamlit Cloud. You can access it using the following link:
-
-https://ml-project-20-multiple-disease-prediction-system-rzzsjoxpjyj32.streamlit.app/
+The web app is hosted on Streamlit Cloud. 
 
 # Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
 # Contact
-If you have any questions or suggestions, feel free to contact me at prachetpandav283@gmail.com
+If you have any questions or suggestions, feel free to contact me at 
+asadrahmani3101@gmail.com
